@@ -9,5 +9,3 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("ProjectEIGHT", "media", 25000, 080120, 080520);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("ProjectNINE", "history", 5000, 090120, 090520);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("ProjectTEN", "criminal justice", 17000, 100120, 100520);
-
-
