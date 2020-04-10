@@ -30,5 +30,3 @@ INSERT INTO users (name, age) VALUES ("People", 39)
 INSERT INTO users (name, age) VALUES ("Always", 20)
 INSERT INTO users (name, age) VALUES ("Shout", 47)
 INSERT INTO users (name, age) VALUES ("Hisname", 90)
-
-
